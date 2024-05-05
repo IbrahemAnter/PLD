@@ -1,0 +1,26 @@
+C:\Users\ANTER\source\repos\555\555\bin\Debug\555.exe.config
+C:\Users\ANTER\source\repos\555\555\bin\Debug\555.exe
+C:\Users\ANTER\source\repos\555\555\bin\Debug\555.pdb
+C:\Users\ANTER\source\repos\555\555\bin\Debug\CalithaLib.dll
+C:\Users\ANTER\source\repos\555\555\bin\Debug\GoldParserEngine.dll
+C:\Users\ANTER\source\repos\555\555\obj\Debug\555.csproj.AssemblyReference.cache
+C:\Users\ANTER\source\repos\555\555\obj\Debug\555.csproj.SuggestedBindingRedirects.cache
+C:\Users\ANTER\source\repos\555\555\obj\Debug\_555.Form1.resources
+C:\Users\ANTER\source\repos\555\555\obj\Debug\_555.Properties.Resources.resources
+C:\Users\ANTER\source\repos\555\555\obj\Debug\555.csproj.GenerateResource.cache
+C:\Users\ANTER\source\repos\555\555\obj\Debug\555.csproj.CoreCompileInputs.cache
+C:\Users\ANTER\source\repos\555\555\obj\Debug\555.csproj.CopyComplete
+C:\Users\ANTER\source\repos\555\555\obj\Debug\555.exe
+C:\Users\ANTER\source\repos\555\555\obj\Debug\555.pdb
+C:\Users\ANTER\OneDrive\Desktop\New folder\555\555\bin\Debug\555.exe.config
+C:\Users\ANTER\OneDrive\Desktop\New folder\555\555\bin\Debug\555.exe
+C:\Users\ANTER\OneDrive\Desktop\New folder\555\555\bin\Debug\555.pdb
+C:\Users\ANTER\OneDrive\Desktop\New folder\555\555\obj\Debug\555.csproj.AssemblyReference.cache
+C:\Users\ANTER\OneDrive\Desktop\New folder\555\555\obj\Debug\555.csproj.SuggestedBindingRedirects.cache
+C:\Users\ANTER\OneDrive\Desktop\New folder\555\555\obj\Debug\_555.Form1.resources
+C:\Users\ANTER\OneDrive\Desktop\New folder\555\555\obj\Debug\_555.Properties.Resources.resources
+C:\Users\ANTER\OneDrive\Desktop\New folder\555\555\obj\Debug\555.csproj.GenerateResource.cache
+C:\Users\ANTER\OneDrive\Desktop\New folder\555\555\obj\Debug\555.csproj.CoreCompileInputs.cache
+C:\Users\ANTER\OneDrive\Desktop\New folder\555\555\obj\Debug\555.csproj.CopyComplete
+C:\Users\ANTER\OneDrive\Desktop\New folder\555\555\obj\Debug\555.exe
+C:\Users\ANTER\OneDrive\Desktop\New folder\555\555\obj\Debug\555.pdb
